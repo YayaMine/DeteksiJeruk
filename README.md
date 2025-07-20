@@ -25,4 +25,7 @@ Buka terminal atau Command Prompt Anda dan jalankan perintah berikut untuk mengi
 pip install opencv-python numpy scikit-learn matplotlib
 
 pip install opencv-python
+
+//run
+python main.py
 ```
